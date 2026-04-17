@@ -38,6 +38,11 @@ o	Large/High-Capacity stations have a much lower occupancy rate (0.72).
 •	Infrastructure Distribution:
 o	Available Bike Stands by Station Category: A Treemap shows that Large Stations (High Capacity) hold the vast majority of the system's docking capacity (represented by the large blue block), while Medium and Small stations make up a much smaller fraction.
 
+Dashboard Image:
+
+<img width="1422" height="803" alt="Screenshot 2026-04-11 123007" src="https://github.com/user-attachments/assets/4dfad923-ef0d-47ae-b4bb-826c1c9a3b9d" />
+
+
 Summary of Key Findings
 
 •	Operational Imbalance: With 705 empty stations and 4K bikes lost, there is a major distribution issue. The system has 32K bikes, but they are not where the users need them, or they are out of service.
